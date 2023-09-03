@@ -1,9 +1,9 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 import javax.persistence.EntityManager;
 
-import com.pool.model.entityinheritance.EmailNotification;
-import com.pool.model.entityinheritance.SmsNotification;
+import com.comrade.model.entityinheritance.EmailNotification;
+import com.comrade.model.entityinheritance.SmsNotification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

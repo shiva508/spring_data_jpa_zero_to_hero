@@ -1,4 +1,4 @@
-package com.pool.model.onetoone;
+package com.comrade.model.onetoone;
 
 import java.util.Date;
 

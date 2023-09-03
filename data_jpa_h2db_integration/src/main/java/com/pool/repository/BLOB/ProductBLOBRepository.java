@@ -1,4 +1,4 @@
-package com.pool.repository.BLOB;
+package com.comrade.repository.BLOB;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

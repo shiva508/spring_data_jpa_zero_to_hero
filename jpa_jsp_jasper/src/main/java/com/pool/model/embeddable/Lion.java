@@ -1,4 +1,4 @@
-package com.pool.model.embeddable;
+package com.comrade.model.embeddable;
 
 import javax.persistence.Column;
 import javax.persistence.Embedded;

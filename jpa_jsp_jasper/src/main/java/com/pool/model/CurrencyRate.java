@@ -1,4 +1,4 @@
-package com.pool.model;
+package com.comrade.model;
 
 import java.math.BigDecimal;
 import java.util.Date;

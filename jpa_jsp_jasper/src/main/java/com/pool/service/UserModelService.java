@@ -1,8 +1,8 @@
-package com.pool.service;
+package com.comrade.service;
 
 import java.util.List;
 
-import com.pool.model.UserModel;
+import com.comrade.model.UserModel;
 import org.springframework.web.bind.annotation.PathVariable;
 
 public interface UserModelService {

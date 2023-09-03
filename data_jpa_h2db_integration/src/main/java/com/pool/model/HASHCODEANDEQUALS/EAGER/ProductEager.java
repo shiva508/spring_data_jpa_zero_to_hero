@@ -1,4 +1,4 @@
-package com.pool.model.HASHCODEANDEQUALS.EAGER;
+package com.comrade.model.HASHCODEANDEQUALS.EAGER;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

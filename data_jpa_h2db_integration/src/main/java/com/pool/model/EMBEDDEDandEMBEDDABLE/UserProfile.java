@@ -1,4 +1,4 @@
-package com.pool.model.EMBEDDEDandEMBEDDABLE;
+package com.comrade.model.EMBEDDEDandEMBEDDABLE;
 
 import javax.persistence.AttributeOverride;
 import javax.persistence.AttributeOverrides;

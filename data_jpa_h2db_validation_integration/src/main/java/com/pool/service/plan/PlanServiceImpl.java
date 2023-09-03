@@ -1,4 +1,4 @@
-package com.pool.service.plan;
+package com.comrade.service.plan;
 
 import java.util.Date;
 import java.util.List;
@@ -9,12 +9,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pool.constants.StudentpoolConstants;
-import com.pool.domine.Plan;
-import com.pool.model.CommonResponse;
-import com.pool.model.PlanModel;
-import com.pool.model.exception.NoRecardsFoundException;
-import com.pool.repository.PlanRepository;
+import com.comrade.constants.StudentpoolConstants;
+import com.comrade.domine.Plan;
+import com.comrade.model.CommonResponse;
+import com.comrade.model.PlanModel;
+import com.comrade.model.exception.NoRecardsFoundException;
+import com.comrade.repository.PlanRepository;
 
 @Service
 public class PlanServiceImpl implements PlanService {

@@ -1,4 +1,4 @@
-package com.pool.service.locking;
+package com.comrade.service.locking;
 
 public interface FlightService {
     public void changeFlight1() throws Exception;

@@ -1,4 +1,4 @@
-package com.pool.model.manytomany;
+package com.comrade.model.manytomany;
 
 import java.util.ArrayList;
 import java.util.List;

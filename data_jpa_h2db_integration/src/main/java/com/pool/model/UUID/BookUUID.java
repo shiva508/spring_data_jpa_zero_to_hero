@@ -1,4 +1,4 @@
-package com.pool.model.UUID;
+package com.comrade.model.UUID;
 
 import java.util.UUID;
 

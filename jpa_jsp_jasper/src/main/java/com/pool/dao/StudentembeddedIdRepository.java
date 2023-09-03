@@ -1,6 +1,6 @@
-package com.pool.dao;
+package com.comrade.dao;
 
-import com.pool.model.embeddedId.StudentembeddedId;
+import com.comrade.model.embeddedId.StudentembeddedId;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 @Repository

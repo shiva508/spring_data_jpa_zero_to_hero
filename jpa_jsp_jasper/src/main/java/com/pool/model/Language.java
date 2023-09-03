@@ -1,4 +1,4 @@
-package com.pool.model;
+package com.comrade.model;
 
 import javax.annotation.Generated;
 import javax.persistence.GeneratedValue;

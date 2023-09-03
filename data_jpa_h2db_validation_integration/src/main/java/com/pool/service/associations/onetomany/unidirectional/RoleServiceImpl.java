@@ -1,10 +1,10 @@
-package com.pool.service.associations.onetomany.unidirectional;
+package com.comrade.service.associations.onetomany.unidirectional;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.pool.model.associations.onetomany.unidirectional.Role;
+import com.comrade.model.associations.onetomany.unidirectional.Role;
 
 @Service
 public class RoleServiceImpl implements RoleService {

@@ -1,6 +1,6 @@
-package com.pool.dao.manytomany;
+package com.comrade.dao.manytomany;
 
-import com.pool.model.manytomany.Course;
+import com.comrade.model.manytomany.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 @Repository

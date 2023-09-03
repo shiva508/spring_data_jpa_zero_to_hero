@@ -1,4 +1,4 @@
-package com.pool.config;/*package com.example.demo.config;
+package com.comrade.config;/*package com.example.demo.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 

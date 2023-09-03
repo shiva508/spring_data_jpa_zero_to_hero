@@ -1,10 +1,10 @@
-package com.pool.App;
+package com.comrade.App;
 
 import java.util.List;
 
-import com.pool.config.AppConfig;
-import com.pool.entity.User;
-import com.pool.service.UserService;
+import com.comrade.config.AppConfig;
+import com.comrade.entity.User;
+import com.comrade.service.UserService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class App 

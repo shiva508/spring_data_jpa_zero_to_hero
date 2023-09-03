@@ -1,4 +1,4 @@
-package com.pool.repository.UUID;
+package com.comrade.repository.UUID;
 
 import java.util.UUID;
 import org.springframework.data.jpa.repository.JpaRepository;

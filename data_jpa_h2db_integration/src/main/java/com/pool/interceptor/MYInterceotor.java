@@ -1,4 +1,4 @@
-package com.pool.interceptor;
+package com.comrade.interceptor;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;

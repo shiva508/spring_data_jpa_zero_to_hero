@@ -1,4 +1,4 @@
-package com.pool.configuration.swagger;
+package com.comrade.configuration.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -26,7 +26,7 @@ public class RestSwagger2Config {
 	
 	private ApiInfo getApiInfo() {
         return new ApiInfoBuilder()
-                	.title("SPRING DATA JPA ")
+                	.title("SPRING DATA JPA")
                 	.description("Covers SPRING DATA JPA")
                 	.version("1.0.0")
                 	.build();

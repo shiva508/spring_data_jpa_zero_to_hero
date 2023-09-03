@@ -1,4 +1,4 @@
-package com.pool.model.NATIONALIZED.NVARCHAR;
+package com.comrade.model.NATIONALIZED.NVARCHAR;
 
 import java.sql.Blob;
 

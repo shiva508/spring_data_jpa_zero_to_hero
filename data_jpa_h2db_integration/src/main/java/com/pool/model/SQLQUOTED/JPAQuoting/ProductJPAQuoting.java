@@ -1,4 +1,4 @@
-package com.pool.model.SQLQUOTED.JPAQuoting;
+package com.comrade.model.SQLQUOTED.JPAQuoting;
 
 import java.util.Date;
 

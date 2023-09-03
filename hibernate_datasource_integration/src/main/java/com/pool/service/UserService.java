@@ -1,7 +1,7 @@
-package com.pool.service;
+package com.comrade.service;
 
 
-import com.pool.entity.User;
+import com.comrade.entity.User;
 
 import java.util.List;
 

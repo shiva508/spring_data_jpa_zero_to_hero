@@ -1,4 +1,4 @@
-package com.pool.model.EXTRALAZYCOLLECTIONS;
+package com.comrade.model.EXTRALAZYCOLLECTIONS;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

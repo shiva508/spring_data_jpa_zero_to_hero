@@ -1,4 +1,4 @@
-package com.pool.model.EXTRALAZYCOLLECTIONS;
+package com.comrade.model.EXTRALAZYCOLLECTIONS;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;

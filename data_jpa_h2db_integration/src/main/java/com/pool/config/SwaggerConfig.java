@@ -1,4 +1,4 @@
-package com.pool.config;
+package com.comrade.config;
 import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;

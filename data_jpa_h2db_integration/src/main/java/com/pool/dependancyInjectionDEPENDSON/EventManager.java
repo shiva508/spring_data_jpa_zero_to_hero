@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionDEPENDSON;
+package com.comrade.dependancyInjectionDEPENDSON;
 
 import java.util.ArrayList;
 import java.util.List;

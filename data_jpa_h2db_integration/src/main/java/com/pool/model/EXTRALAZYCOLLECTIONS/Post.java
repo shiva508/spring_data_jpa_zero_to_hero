@@ -1,4 +1,4 @@
-package com.pool.model.EXTRALAZYCOLLECTIONS;
+package com.comrade.model.EXTRALAZYCOLLECTIONS;
 
 import java.util.ArrayList;
 import java.util.List;

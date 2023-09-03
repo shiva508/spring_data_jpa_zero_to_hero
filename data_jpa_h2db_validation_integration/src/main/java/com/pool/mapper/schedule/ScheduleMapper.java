@@ -1,8 +1,8 @@
-package com.pool.mapper.schedule;
+package com.comrade.mapper.schedule;
 
 import org.springframework.stereotype.Component;
 
-import com.pool.model.associations.onetomany.bidirectional.Schedule;
+import com.comrade.model.associations.onetomany.bidirectional.Schedule;
 
 @Component
 public class ScheduleMapper {

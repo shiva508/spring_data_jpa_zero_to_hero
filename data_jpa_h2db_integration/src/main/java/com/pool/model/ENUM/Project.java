@@ -1,4 +1,4 @@
-package com.pool.model.ENUM;
+package com.comrade.model.ENUM;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

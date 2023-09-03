@@ -1,4 +1,4 @@
-package com.pool.model.SQLQUOTED.HibernateQuoting;
+package com.comrade.model.SQLQUOTED.HibernateQuoting;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

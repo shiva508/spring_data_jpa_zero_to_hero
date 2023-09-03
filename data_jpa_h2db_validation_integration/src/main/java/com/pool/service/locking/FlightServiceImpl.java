@@ -1,4 +1,4 @@
-package com.pool.service.locking;
+package com.comrade.service.locking;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
@@ -8,11 +8,11 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pool.model.exception.ExceededCapacityException;
-import com.pool.model.locking.Flight;
-import com.pool.model.locking.Ticket;
-import com.pool.repository.locking.FlightRepository;
-import com.pool.repository.locking.TicketRepository;
+import com.comrade.model.exception.ExceededCapacityException;
+import com.comrade.model.locking.Flight;
+import com.comrade.model.locking.Ticket;
+import com.comrade.repository.locking.FlightRepository;
+import com.comrade.repository.locking.TicketRepository;
 
 @Service
 public class FlightServiceImpl implements FlightService {

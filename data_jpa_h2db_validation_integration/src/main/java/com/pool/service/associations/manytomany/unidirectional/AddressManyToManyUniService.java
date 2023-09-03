@@ -1,8 +1,8 @@
-package com.pool.service.associations.manytomany.unidirectional;
+package com.comrade.service.associations.manytomany.unidirectional;
 
 import java.util.List;
 
-import com.pool.model.associations.manytomany.unidirectional.AddressManyToManyUni;
+import com.comrade.model.associations.manytomany.unidirectional.AddressManyToManyUni;
 
 public interface AddressManyToManyUniService {
     public AddressManyToManyUni save(AddressManyToManyUni addressManyToManyUni);

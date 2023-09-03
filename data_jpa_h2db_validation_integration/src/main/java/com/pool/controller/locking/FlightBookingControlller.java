@@ -1,4 +1,4 @@
-package com.pool.controller.locking;
+package com.comrade.controller.locking;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -10,11 +10,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pool.model.locking.Flight;
-import com.pool.model.locking.Ticket;
-import com.pool.repository.locking.FlightRepository;
-import com.pool.repository.locking.TicketRepository;
-import com.pool.service.locking.FlightService;
+import com.comrade.model.locking.Flight;
+import com.comrade.model.locking.Ticket;
+import com.comrade.repository.locking.FlightRepository;
+import com.comrade.repository.locking.TicketRepository;
+import com.comrade.service.locking.FlightService;
 import org.apache.commons.lang3.function.FailableRunnable;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.pool.controller;
+package com.comrade.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import com.pool.domine.Scan;
-import com.pool.service.scan.ScanService;
+import com.comrade.domine.Scan;
+import com.comrade.service.scan.ScanService;
 
 @RestController
 public class ScanController {

@@ -1,11 +1,11 @@
-package com.pool.service.plan;
+package com.comrade.service.plan;
 
 import java.util.List;
 import java.util.stream.Stream;
 
-import com.pool.domine.Plan;
-import com.pool.model.CommonResponse;
-import com.pool.model.PlanModel;
+import com.comrade.domine.Plan;
+import com.comrade.model.CommonResponse;
+import com.comrade.model.PlanModel;
 
 public interface PlanService {
 	public Plan savePlan(Plan plan);

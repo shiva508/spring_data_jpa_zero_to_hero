@@ -1,4 +1,4 @@
-package com.pool.repository.naturalid;
+package com.comrade.repository.naturalid;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

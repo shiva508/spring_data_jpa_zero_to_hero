@@ -1,4 +1,4 @@
-package com.pool.repository.associations.onetoone.unidirectional;
+package com.comrade.repository.associations.onetoone.unidirectional;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import javax.persistence.criteria.Root;
 
 import org.springframework.data.jpa.domain.Specification;
 
-import com.pool.model.associations.onetoone.unidirectional.Faculty;
+import com.comrade.model.associations.onetoone.unidirectional.Faculty;
 
 public class FacultySpecification implements Specification<Faculty> {
 	private List<SearchCriteria> list;

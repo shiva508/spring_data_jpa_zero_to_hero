@@ -1,4 +1,4 @@
-package com.pool.model;/*package com.example.demo.model;
+package com.comrade.model;/*package com.example.demo.model;
 
 import java.util.Collection;
 import java.util.List;

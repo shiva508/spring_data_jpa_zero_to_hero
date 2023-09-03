@@ -1,8 +1,8 @@
-package com.pool.service.associations.onetoone.bidirectional;
+package com.comrade.service.associations.onetoone.bidirectional;
 
 import java.util.List;
 
-import com.pool.model.associations.onetoone.bidirectional.Student;
+import com.comrade.model.associations.onetoone.bidirectional.Student;
 
 public interface StudentService {
 	public Student saveStudent(Student student);

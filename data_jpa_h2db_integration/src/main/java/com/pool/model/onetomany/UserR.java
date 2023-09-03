@@ -1,4 +1,4 @@
-package com.pool.model.onetomany;
+package com.comrade.model.onetomany;
 
 import javax.persistence.CascadeType;
 

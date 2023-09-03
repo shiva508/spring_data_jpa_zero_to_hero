@@ -1,4 +1,4 @@
-package com.pool.repository;
+package com.comrade.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

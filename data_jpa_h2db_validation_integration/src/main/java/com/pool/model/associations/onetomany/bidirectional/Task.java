@@ -1,4 +1,4 @@
-package com.pool.model.associations.onetomany.bidirectional;
+package com.comrade.model.associations.onetomany.bidirectional;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

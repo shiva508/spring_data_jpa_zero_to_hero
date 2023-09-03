@@ -1,4 +1,4 @@
-package com.pool.controller;
+package com.comrade.controller;
 
 import java.util.Arrays;
 import java.util.List;
@@ -21,11 +21,11 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pool.domine.Plan;
-import com.pool.model.CommonResponse;
-import com.pool.model.PlanModel;
-import com.pool.service.plan.PlanService;
-import com.pool.util.InputValidatorUtil;
+import com.comrade.domine.Plan;
+import com.comrade.model.CommonResponse;
+import com.comrade.model.PlanModel;
+import com.comrade.service.plan.PlanService;
+import com.comrade.util.InputValidatorUtil;
 
 @RestController
 public class PlanController {

@@ -5,4 +5,4 @@
  * @author shiva
  *
  */
-package com.pool.service.SYNCHRONIZEBIDIRECTIONALENTITY;
+package com.comrade.service.SYNCHRONIZEBIDIRECTIONALENTITY;

@@ -1,4 +1,4 @@
-package com.pool.model.embeddedId;
+package com.comrade.model.embeddedId;
 
 import java.io.Serializable;
 

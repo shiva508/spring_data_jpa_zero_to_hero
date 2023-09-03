@@ -1,4 +1,4 @@
-package com.pool.model;
+package com.comrade.model;
 
 public class ValidationResponse {
 	private String field;

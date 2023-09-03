@@ -1,4 +1,4 @@
-package com.pool.service;
+package com.comrade.service;
 
 import java.util.List;
 

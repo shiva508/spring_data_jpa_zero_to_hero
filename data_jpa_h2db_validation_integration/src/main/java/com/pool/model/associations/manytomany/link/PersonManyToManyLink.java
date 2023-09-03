@@ -1,4 +1,4 @@
-package com.pool.model.associations.manytomany.link;
+package com.comrade.model.associations.manytomany.link;
 
 import java.io.Serializable;
 import java.util.ArrayList;

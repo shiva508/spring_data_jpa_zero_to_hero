@@ -1,4 +1,4 @@
-package com.pool.findById;
+package com.comrade.findById;
 
 import java.util.List;
 

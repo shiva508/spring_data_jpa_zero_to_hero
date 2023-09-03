@@ -1,4 +1,4 @@
-package com.pool.cache.config;/*package com.web.ldap.cache.config;
+package com.comrade.cache.config;/*package com.web.ldap.cache.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

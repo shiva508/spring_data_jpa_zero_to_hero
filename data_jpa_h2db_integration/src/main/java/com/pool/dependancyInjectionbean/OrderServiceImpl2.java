@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionbean;
+package com.comrade.dependancyInjectionbean;
 
 public class OrderServiceImpl2 implements OrderService {
 

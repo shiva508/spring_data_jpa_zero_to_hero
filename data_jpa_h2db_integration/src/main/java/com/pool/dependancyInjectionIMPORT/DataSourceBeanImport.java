@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionIMPORT;
+package com.comrade.dependancyInjectionIMPORT;
 
 public class DataSourceBeanImport {
 	public String getData() {

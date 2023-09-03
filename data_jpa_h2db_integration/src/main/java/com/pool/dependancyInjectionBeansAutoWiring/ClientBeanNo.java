@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionBeansAutoWiring;
+package com.comrade.dependancyInjectionBeansAutoWiring;
 
 public class ClientBeanNo {
 

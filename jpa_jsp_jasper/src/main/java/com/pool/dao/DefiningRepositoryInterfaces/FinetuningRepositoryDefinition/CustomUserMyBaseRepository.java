@@ -1,6 +1,6 @@
-package com.pool.dao.DefiningRepositoryInterfaces.FinetuningRepositoryDefinition;
+package com.comrade.dao.DefiningRepositoryInterfaces.FinetuningRepositoryDefinition;
 
-import com.pool.model.UserModel;
+import com.comrade.model.UserModel;
 
 public interface CustomUserMyBaseRepository extends MyBaseRepository<UserModel, Integer>{
 		UserModel findByEmailAddress(String emailAddress);

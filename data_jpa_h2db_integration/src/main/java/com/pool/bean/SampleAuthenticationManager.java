@@ -1,4 +1,4 @@
-package com.pool.bean;/*package com.example.demo.bean;
+package com.comrade.bean;/*package com.example.demo.bean;
 
 import java.util.ArrayList;
 import java.util.List;

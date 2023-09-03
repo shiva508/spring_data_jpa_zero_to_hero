@@ -1,4 +1,4 @@
-package com.pool.configuration.exception;
+package com.comrade.configuration.exception;
 
 import java.util.Date;
 
@@ -7,8 +7,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-import com.pool.model.exception.CustomErrorResponse;
-import com.pool.model.exception.NoRecardsFoundException;
+import com.comrade.model.exception.CustomErrorResponse;
+import com.comrade.model.exception.NoRecardsFoundException;
 
 @RestControllerAdvice
 public class GlobalExceptionHandler {

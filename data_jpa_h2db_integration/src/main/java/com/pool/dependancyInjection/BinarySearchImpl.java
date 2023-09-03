@@ -1,4 +1,4 @@
-package com.pool.dependancyInjection;
+package com.comrade.dependancyInjection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

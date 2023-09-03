@@ -1,4 +1,4 @@
-package com.pool.service.ENUM;
+package com.comrade.service.ENUM;
 
 import javax.transaction.Transactional;
 import javax.websocket.server.ServerEndpoint;

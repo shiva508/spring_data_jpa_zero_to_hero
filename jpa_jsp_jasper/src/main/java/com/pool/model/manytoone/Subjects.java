@@ -1,4 +1,4 @@
-package com.pool.model.manytoone;
+package com.comrade.model.manytoone;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

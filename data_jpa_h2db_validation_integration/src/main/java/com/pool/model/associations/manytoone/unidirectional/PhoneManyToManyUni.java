@@ -1,4 +1,4 @@
-package com.pool.model.associations.manytoone.unidirectional;
+package com.comrade.model.associations.manytoone.unidirectional;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

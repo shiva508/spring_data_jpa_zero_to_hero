@@ -1,8 +1,8 @@
-package com.pool.service.scan;
+package com.comrade.service.scan;
 
 import java.util.List;
 
-import com.pool.domine.Scan;
+import com.comrade.domine.Scan;
 
 public interface ScanService {
 	public Scan saveScan(Scan scan);

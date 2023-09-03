@@ -1,4 +1,4 @@
-package com.pool.service.associations.manytomany.link;
+package com.comrade.service.associations.manytomany.link;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pool.model.associations.manytomany.link.PersonManyToManyLink;
-import com.pool.repository.associations.manytomany.link.PersonManyToManyLinkRepository;
+import com.comrade.model.associations.manytomany.link.PersonManyToManyLink;
+import com.comrade.repository.associations.manytomany.link.PersonManyToManyLinkRepository;
 
 @Service
 public class PersonManyToManyLinkServiceImpl implements PersonManyToManyLinkService {

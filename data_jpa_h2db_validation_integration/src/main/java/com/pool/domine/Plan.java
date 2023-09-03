@@ -1,4 +1,4 @@
-package com.pool.domine;
+package com.comrade.domine;
 
 import java.io.Serializable;
 import java.sql.Date;
@@ -15,7 +15,7 @@ import javax.persistence.SqlResultSetMapping;
 import javax.persistence.Table;
 import javax.validation.constraints.NotBlank;
 
-import com.pool.model.PlanModel;
+import com.comrade.model.PlanModel;
 
 @Table(name = "PLAN")
 @Entity

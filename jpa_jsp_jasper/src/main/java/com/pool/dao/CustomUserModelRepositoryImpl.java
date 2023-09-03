@@ -1,4 +1,4 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 import javax.servlet.http.HttpServletRequest;
 
-import com.pool.model.UserModel;
+import com.comrade.model.UserModel;
 import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.annotations.Cache;

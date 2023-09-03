@@ -1,4 +1,4 @@
-package com.pool.model.onetomany;
+package com.comrade.model.onetomany;
 
 import java.util.List;
 

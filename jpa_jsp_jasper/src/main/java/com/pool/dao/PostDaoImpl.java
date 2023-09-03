@@ -1,8 +1,8 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 import javax.persistence.EntityManager;
 
-import com.pool.model.entityinheritance.Post;
+import com.comrade.model.entityinheritance.Post;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.pool.constants;
+package com.comrade.constants;
 
 public class StudentpoolConstants {
 	public static final String NO_DATA_FOUND_MESSAGE = "No Records are found please contact administrator";

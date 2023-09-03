@@ -1,4 +1,4 @@
-package com.pool.repository.EMBEDDEDandEMBEDDABLE;
+package com.comrade.repository.EMBEDDEDandEMBEDDABLE;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

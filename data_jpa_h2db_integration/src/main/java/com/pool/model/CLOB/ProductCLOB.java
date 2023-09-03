@@ -1,4 +1,4 @@
-package com.pool.model.CLOB;
+package com.comrade.model.CLOB;
 
 import java.sql.Clob;
 import java.util.Arrays;

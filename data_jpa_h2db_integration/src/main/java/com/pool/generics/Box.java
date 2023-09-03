@@ -1,4 +1,4 @@
-package com.pool.generics;
+package com.comrade.generics;
 
 public class Box {
 	private Object object;

@@ -1,6 +1,6 @@
-package com.pool.dao;
+package com.comrade.dao;
 
-import com.pool.model.joinformula.Product;
+import com.comrade.model.joinformula.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 @Repository

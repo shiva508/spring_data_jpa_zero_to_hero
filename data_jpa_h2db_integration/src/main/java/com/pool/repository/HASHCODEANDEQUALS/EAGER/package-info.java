@@ -5,4 +5,4 @@
  * @author shiva
  *
  */
-package com.pool.repository.HASHCODEANDEQUALS.EAGER;
+package com.comrade.repository.HASHCODEANDEQUALS.EAGER;

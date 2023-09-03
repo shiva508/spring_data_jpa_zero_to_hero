@@ -1,4 +1,4 @@
-package com.pool.model;
+package com.comrade.model;
 
 import org.hibernate.validator.constraints.Length;
 

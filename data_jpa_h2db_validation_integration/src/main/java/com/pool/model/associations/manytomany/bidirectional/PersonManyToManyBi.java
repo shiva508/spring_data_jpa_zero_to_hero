@@ -1,4 +1,4 @@
-package com.pool.model.associations.manytomany.bidirectional;
+package com.comrade.model.associations.manytomany.bidirectional;
 
 import java.io.Serializable;
 import java.util.ArrayList;

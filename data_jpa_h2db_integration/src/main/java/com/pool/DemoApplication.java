@@ -1,4 +1,4 @@
-package com.pool;
+package com.comrade;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;

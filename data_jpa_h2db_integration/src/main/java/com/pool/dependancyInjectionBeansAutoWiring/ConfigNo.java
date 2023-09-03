@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionBeansAutoWiring;
+package com.comrade.dependancyInjectionBeansAutoWiring;
 
 import org.springframework.beans.factory.annotation.Autowire;
 import org.springframework.context.annotation.Bean;

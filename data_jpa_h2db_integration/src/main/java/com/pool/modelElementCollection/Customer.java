@@ -1,4 +1,4 @@
-package com.pool.modelElementCollection;
+package com.comrade.modelElementCollection;
 
 import java.util.List;
 

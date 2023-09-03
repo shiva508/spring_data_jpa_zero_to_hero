@@ -1,4 +1,4 @@
-package com.pool.controller;
+package com.comrade.controller;
 
 import java.util.List;
 

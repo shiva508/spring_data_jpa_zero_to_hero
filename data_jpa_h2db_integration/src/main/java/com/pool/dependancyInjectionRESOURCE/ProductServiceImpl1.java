@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionRESOURCE;
+package com.comrade.dependancyInjectionRESOURCE;
 
 public class ProductServiceImpl1 implements ProductService {
 

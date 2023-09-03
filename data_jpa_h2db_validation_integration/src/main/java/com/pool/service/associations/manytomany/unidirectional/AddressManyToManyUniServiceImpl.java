@@ -1,4 +1,4 @@
-package com.pool.service.associations.manytomany.unidirectional;
+package com.comrade.service.associations.manytomany.unidirectional;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pool.model.associations.manytomany.unidirectional.AddressManyToManyUni;
-import com.pool.repository.associations.manytomany.unidirectional.AddressManyToManyUniRepository;
+import com.comrade.model.associations.manytomany.unidirectional.AddressManyToManyUni;
+import com.comrade.repository.associations.manytomany.unidirectional.AddressManyToManyUniRepository;
 
 @Service
 public class AddressManyToManyUniServiceImpl implements AddressManyToManyUniService {

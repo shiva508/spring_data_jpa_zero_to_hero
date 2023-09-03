@@ -1,4 +1,4 @@
-package com.pool.model.associations.onetoone.bidirectional;
+package com.comrade.model.associations.onetoone.bidirectional;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

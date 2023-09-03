@@ -1,4 +1,4 @@
-package com.pool.configuration.threadpool;
+package com.comrade.configuration.threadpool;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

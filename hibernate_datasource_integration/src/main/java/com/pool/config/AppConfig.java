@@ -1,9 +1,9 @@
-package com.pool.config;
+package com.comrade.config;
 
 import java.util.Properties;
 import javax.sql.DataSource;
 
-import com.pool.entity.User;
+import com.comrade.entity.User;
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.springframework.core.env.Environment;
 import org.springframework.orm.hibernate5.HibernateTransactionManager;

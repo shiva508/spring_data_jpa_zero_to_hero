@@ -1,4 +1,4 @@
-package com.pool.model.entityinheritance;
+package com.comrade.model.entityinheritance;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

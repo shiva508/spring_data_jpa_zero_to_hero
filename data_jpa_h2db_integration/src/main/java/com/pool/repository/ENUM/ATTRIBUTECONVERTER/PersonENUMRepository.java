@@ -1,4 +1,4 @@
-package com.pool.repository.ENUM.ATTRIBUTECONVERTER;
+package com.comrade.repository.ENUM.ATTRIBUTECONVERTER;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

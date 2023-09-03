@@ -1,4 +1,4 @@
-package com.pool.aliasfor;
+package com.comrade.aliasfor;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.annotation.AnnotatedElementUtils;

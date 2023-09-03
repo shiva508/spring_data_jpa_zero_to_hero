@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionCONFIGURATION;
+package com.comrade.dependancyInjectionCONFIGURATION;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

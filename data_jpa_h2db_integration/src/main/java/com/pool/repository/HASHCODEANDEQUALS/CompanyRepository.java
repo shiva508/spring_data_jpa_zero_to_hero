@@ -1,4 +1,4 @@
-package com.pool.repository.HASHCODEANDEQUALS;
+package com.comrade.repository.HASHCODEANDEQUALS;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

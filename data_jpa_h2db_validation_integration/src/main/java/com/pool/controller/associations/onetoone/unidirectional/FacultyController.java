@@ -1,4 +1,4 @@
-package com.pool.controller.associations.onetoone.unidirectional;
+package com.comrade.controller.associations.onetoone.unidirectional;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pool.configuration.swagger.StudentPoolCache;
-import com.pool.model.associations.onetoone.unidirectional.Faculty;
-import com.pool.service.associations.onetoone.unidirectional.FacultyService;
+import com.comrade.configuration.swagger.StudentPoolCache;
+import com.comrade.model.associations.onetoone.unidirectional.Faculty;
+import com.comrade.service.associations.onetoone.unidirectional.FacultyService;
 
 @RestController
 @RequestMapping("/faculty")

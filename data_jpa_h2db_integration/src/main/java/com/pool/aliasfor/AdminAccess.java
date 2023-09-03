@@ -1,4 +1,4 @@
-package com.pool.aliasfor;
+package com.comrade.aliasfor;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

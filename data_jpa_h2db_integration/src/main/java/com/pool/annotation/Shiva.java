@@ -1,4 +1,4 @@
-package com.pool.annotation;
+package com.comrade.annotation;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

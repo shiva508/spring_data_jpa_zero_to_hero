@@ -1,4 +1,4 @@
-package com.pool.entity;
+package com.comrade.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

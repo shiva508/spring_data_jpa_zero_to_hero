@@ -1,4 +1,4 @@
-package com.pool.service.associations.manytomany.bidirectional;
+package com.comrade.service.associations.manytomany.bidirectional;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pool.model.associations.manytomany.bidirectional.AddressManyToManyBi;
-import com.pool.repository.associations.manytomany.bidirectional.AddressManyToManyBiRepository;
+import com.comrade.model.associations.manytomany.bidirectional.AddressManyToManyBi;
+import com.comrade.repository.associations.manytomany.bidirectional.AddressManyToManyBiRepository;
 
 @Service
 public class AddressManyToManyBiServiceImpl implements AddressManyToManyBiService {

@@ -1,4 +1,4 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 import javax.persistence.EntityManager;
 

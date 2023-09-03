@@ -1,4 +1,4 @@
-package com.pool.bean;
+package com.comrade.bean;
 
 public class ServiceBean {
 	private String msg;

@@ -1,4 +1,4 @@
-package com.pool.controller;
+package com.comrade.controller;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

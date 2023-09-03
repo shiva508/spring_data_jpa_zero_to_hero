@@ -1,4 +1,4 @@
-package com.pool.model.inheritance.singletable;
+package com.comrade.model.inheritance.singletable;
 
 import java.math.BigDecimal;
 

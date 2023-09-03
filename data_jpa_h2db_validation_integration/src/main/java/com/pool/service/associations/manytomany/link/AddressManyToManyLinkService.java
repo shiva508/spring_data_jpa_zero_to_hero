@@ -1,8 +1,8 @@
-package com.pool.service.associations.manytomany.link;
+package com.comrade.service.associations.manytomany.link;
 
 import java.util.List;
 
-import com.pool.model.associations.manytomany.link.AddressManyToManyLink;
+import com.comrade.model.associations.manytomany.link.AddressManyToManyLink;
 
 public interface AddressManyToManyLinkService {
     public AddressManyToManyLink save(AddressManyToManyLink addressManyToManyLink);

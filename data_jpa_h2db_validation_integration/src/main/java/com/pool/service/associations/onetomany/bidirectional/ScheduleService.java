@@ -1,8 +1,8 @@
-package com.pool.service.associations.onetomany.bidirectional;
+package com.comrade.service.associations.onetomany.bidirectional;
 
 import java.util.List;
 
-import com.pool.model.associations.onetomany.bidirectional.Schedule;
+import com.comrade.model.associations.onetomany.bidirectional.Schedule;
 
 public interface ScheduleService {
 	public Schedule saveSchedule(Schedule schedule);

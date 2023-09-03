@@ -1,4 +1,4 @@
-package com.pool.model.inheritance.mappedsuperclass;
+package com.comrade.model.inheritance.mappedsuperclass;
 
 import java.math.BigDecimal;
 

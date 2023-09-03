@@ -1,4 +1,4 @@
-package com.pool.model.locking;
+package com.comrade.model.locking;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;

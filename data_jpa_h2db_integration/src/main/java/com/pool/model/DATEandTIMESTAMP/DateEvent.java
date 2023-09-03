@@ -1,4 +1,4 @@
-package com.pool.model.DATEandTIMESTAMP;
+package com.comrade.model.DATEandTIMESTAMP;
 
 
 

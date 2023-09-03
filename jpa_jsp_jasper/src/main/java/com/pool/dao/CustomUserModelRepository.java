@@ -1,6 +1,6 @@
-package com.pool.dao;
+package com.comrade.dao;
 
-import com.pool.model.UserModel;
+import com.comrade.model.UserModel;
 
 import java.util.List;
 

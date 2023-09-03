@@ -1,4 +1,4 @@
-package com.pool.domine;
+package com.comrade.domine;
 
 import java.io.Serializable;
 import java.util.Date;

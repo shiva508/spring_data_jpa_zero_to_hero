@@ -1,4 +1,4 @@
-package com.pool.model.SYNCHRONIZEBIDIRECTIONALENTITY.OneToOne;
+package com.comrade.model.SYNCHRONIZEBIDIRECTIONALENTITY.OneToOne;
 
 import java.util.Date;
 

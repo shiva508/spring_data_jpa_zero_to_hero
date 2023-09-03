@@ -1,4 +1,4 @@
-package com.pool.controller.associations.onetoone.unidirectional;
+package com.comrade.controller.associations.onetoone.unidirectional;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pool.model.associations.onetoone.unidirectional.Subject;
-import com.pool.service.associations.onetoone.unidirectional.SubjectService;
+import com.comrade.model.associations.onetoone.unidirectional.Subject;
+import com.comrade.service.associations.onetoone.unidirectional.SubjectService;
 
 @RestController
 @RequestMapping("/subject")

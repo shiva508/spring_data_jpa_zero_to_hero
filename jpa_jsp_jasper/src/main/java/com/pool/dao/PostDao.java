@@ -1,7 +1,7 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 
-import com.pool.model.entityinheritance.Post;
+import com.comrade.model.entityinheritance.Post;
 
 public interface PostDao {
 public void savePost(Post post);

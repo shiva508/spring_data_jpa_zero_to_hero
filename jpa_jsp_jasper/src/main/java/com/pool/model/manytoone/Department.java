@@ -1,4 +1,4 @@
-package com.pool.model.manytoone;
+package com.comrade.model.manytoone;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.pool.dao;
+package com.comrade.dao;
 
-import com.pool.entity.User;
+import com.comrade.entity.User;
 
 import java.util.List;
 

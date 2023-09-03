@@ -1,4 +1,4 @@
-package com.pool.config;
+package com.comrade.config;
 
 import java.util.List;
 

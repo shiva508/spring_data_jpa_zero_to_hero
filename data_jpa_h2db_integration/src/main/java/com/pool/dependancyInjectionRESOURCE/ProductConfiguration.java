@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionRESOURCE;
+package com.comrade.dependancyInjectionRESOURCE;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.pool.generics;
+package com.comrade.generics;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.pool.cache.config;
+package com.comrade.cache.config;
 
 
 

@@ -1,4 +1,4 @@
-package com.pool.form;
+package com.comrade.form;
 
 public class UserForm {
 

@@ -1,4 +1,4 @@
-package com.pool.aliasfor;
+package com.comrade.aliasfor;
 
 import org.hibernate.annotations.AccessType;
 import org.springframework.context.annotation.ComponentScan;

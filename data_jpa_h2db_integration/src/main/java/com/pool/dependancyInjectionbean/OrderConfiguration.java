@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionbean;
+package com.comrade.dependancyInjectionbean;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;

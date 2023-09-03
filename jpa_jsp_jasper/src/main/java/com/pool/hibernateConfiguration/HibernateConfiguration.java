@@ -1,4 +1,4 @@
-package com.pool.hibernateConfiguration;
+package com.comrade.hibernateConfiguration;
 
 import java.util.Properties;
 

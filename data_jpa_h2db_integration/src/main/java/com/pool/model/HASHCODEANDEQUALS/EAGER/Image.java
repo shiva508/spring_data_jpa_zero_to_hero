@@ -1,4 +1,4 @@
-package com.pool.model.HASHCODEANDEQUALS.EAGER;
+package com.comrade.model.HASHCODEANDEQUALS.EAGER;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

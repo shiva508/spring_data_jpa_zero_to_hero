@@ -1,4 +1,4 @@
-package com.pool.service;
+package com.comrade.service;
 
 import com.web.ldap.model.entityinheritance.PostDetails;
 

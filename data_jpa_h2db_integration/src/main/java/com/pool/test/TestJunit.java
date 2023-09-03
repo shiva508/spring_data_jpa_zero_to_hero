@@ -1,4 +1,4 @@
-package com.pool.test;
+package com.comrade.test;
 
 public class TestJunit {
 

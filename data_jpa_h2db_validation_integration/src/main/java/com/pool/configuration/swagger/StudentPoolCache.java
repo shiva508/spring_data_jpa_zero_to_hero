@@ -1,4 +1,4 @@
-package com.pool.configuration.swagger;
+package com.comrade.configuration.swagger;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -6,7 +6,7 @@ import java.util.Queue;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
-import com.pool.model.associations.onetoone.unidirectional.Faculty;
+import com.comrade.model.associations.onetoone.unidirectional.Faculty;
 
 @Component
 @Scope("singleton")

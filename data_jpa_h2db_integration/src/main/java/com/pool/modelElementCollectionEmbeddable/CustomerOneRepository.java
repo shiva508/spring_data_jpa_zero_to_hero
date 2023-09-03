@@ -1,4 +1,4 @@
-package com.pool.modelElementCollectionEmbeddable;
+package com.comrade.modelElementCollectionEmbeddable;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

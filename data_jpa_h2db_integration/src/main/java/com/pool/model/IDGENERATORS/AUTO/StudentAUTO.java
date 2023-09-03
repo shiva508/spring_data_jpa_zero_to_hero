@@ -1,4 +1,4 @@
-package com.pool.model.IDGENERATORS.AUTO;
+package com.comrade.model.IDGENERATORS.AUTO;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

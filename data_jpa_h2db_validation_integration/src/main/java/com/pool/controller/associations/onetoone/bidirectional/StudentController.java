@@ -1,4 +1,4 @@
-package com.pool.controller.associations.onetoone.bidirectional;
+package com.comrade.controller.associations.onetoone.bidirectional;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pool.model.associations.onetoone.bidirectional.Student;
-import com.pool.service.associations.onetoone.bidirectional.StudentService;
+import com.comrade.model.associations.onetoone.bidirectional.Student;
+import com.comrade.service.associations.onetoone.bidirectional.StudentService;
 
 @RestController
 @RequestMapping("/student")

@@ -1,4 +1,4 @@
-package com.pool.dependancyInjectionCONFIGURATION;
+package com.comrade.dependancyInjectionCONFIGURATION;
 
 import javax.annotation.PostConstruct;
 

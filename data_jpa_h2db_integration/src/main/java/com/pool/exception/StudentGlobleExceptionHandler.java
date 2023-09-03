@@ -1,4 +1,4 @@
-package com.pool.exception;
+package com.comrade.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

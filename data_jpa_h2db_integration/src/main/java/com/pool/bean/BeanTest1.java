@@ -1,4 +1,4 @@
-package com.pool.bean;
+package com.comrade.bean;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

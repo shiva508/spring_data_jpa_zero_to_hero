@@ -1,4 +1,4 @@
-package com.pool.repository.SYNCHRONIZEBIDIRECTIONALENTITY;
+package com.comrade.repository.SYNCHRONIZEBIDIRECTIONALENTITY;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

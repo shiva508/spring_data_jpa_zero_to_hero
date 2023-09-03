@@ -1,4 +1,4 @@
-package com.pool.model.naturalid;
+package com.comrade.model.naturalid;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,6 +1,6 @@
-package com.pool.dao;
+package com.comrade.dao;
 
-import com.pool.model.onetoone.Instrucror;
+import com.comrade.model.onetoone.Instrucror;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 @Repository

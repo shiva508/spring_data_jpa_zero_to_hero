@@ -1,4 +1,4 @@
-package com.pool.controller.associations.manytomany.bidirectional;
+package com.comrade.controller.associations.manytomany.bidirectional;
 
 import java.util.List;
 
@@ -12,10 +12,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pool.model.associations.manytomany.bidirectional.AddressManyToManyBi;
-import com.pool.model.associations.manytomany.bidirectional.PersonManyToManyBi;
-import com.pool.service.associations.manytomany.bidirectional.AddressManyToManyBiService;
-import com.pool.service.associations.manytomany.bidirectional.PersonManyToManyBiService;
+import com.comrade.model.associations.manytomany.bidirectional.AddressManyToManyBi;
+import com.comrade.model.associations.manytomany.bidirectional.PersonManyToManyBi;
+import com.comrade.service.associations.manytomany.bidirectional.AddressManyToManyBiService;
+import com.comrade.service.associations.manytomany.bidirectional.PersonManyToManyBiService;
 
 @RestController
 @RequestMapping("/api/vi/manytomanybi")

@@ -1,4 +1,4 @@
-package com.pool.mappers;
+package com.comrade.mappers;
 
 import ma.glasnost.orika.MapperFactory;
 import ma.glasnost.orika.converter.ConverterFactory;

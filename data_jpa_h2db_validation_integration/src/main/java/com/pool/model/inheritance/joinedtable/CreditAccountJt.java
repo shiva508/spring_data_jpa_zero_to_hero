@@ -1,4 +1,4 @@
-package com.pool.model.inheritance.joinedtable;
+package com.comrade.model.inheritance.joinedtable;
 
 import java.math.BigDecimal;
 

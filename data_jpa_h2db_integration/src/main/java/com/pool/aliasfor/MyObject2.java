@@ -1,4 +1,4 @@
-package com.pool.aliasfor;
+package com.comrade.aliasfor;
 @AdminAccess
 public class MyObject2 {
 

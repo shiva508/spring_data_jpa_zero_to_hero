@@ -1,4 +1,4 @@
-package com.pool.model.IDGENERATORS.SEQUENCE;
+package com.comrade.model.IDGENERATORS.SEQUENCE;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

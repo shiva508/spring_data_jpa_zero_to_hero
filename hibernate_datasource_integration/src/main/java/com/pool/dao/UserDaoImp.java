@@ -1,8 +1,8 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 import java.util.List;
 import javax.persistence.TypedQuery;
-import com.pool.entity.User;
+import com.comrade.entity.User;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.pool.model.SYNCHRONIZEBIDIRECTIONALENTITY.OneToMany;
+package com.comrade.model.SYNCHRONIZEBIDIRECTIONALENTITY.OneToMany;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;

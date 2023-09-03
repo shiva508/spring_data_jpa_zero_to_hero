@@ -1,4 +1,4 @@
-package com.pool.model.exception;
+package com.comrade.model.exception;
 
 import java.util.Date;
 

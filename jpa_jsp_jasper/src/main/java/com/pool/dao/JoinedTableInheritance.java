@@ -1,8 +1,8 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 
-import com.pool.model.entityinheritance.EmailNotification;
-import com.pool.model.entityinheritance.SmsNotification;
+import com.comrade.model.entityinheritance.EmailNotification;
+import com.comrade.model.entityinheritance.SmsNotification;
 
 public interface JoinedTableInheritance {
 public void sendSme(SmsNotification smsNotification);

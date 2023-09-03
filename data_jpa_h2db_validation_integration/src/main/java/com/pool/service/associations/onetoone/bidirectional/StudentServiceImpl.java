@@ -1,4 +1,4 @@
-package com.pool.service.associations.onetoone.bidirectional;
+package com.comrade.service.associations.onetoone.bidirectional;
 
 import java.util.List;
 
@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pool.model.associations.onetoone.bidirectional.BioData;
-import com.pool.model.associations.onetoone.bidirectional.Student;
-import com.pool.repository.associations.onetoone.bidirectional.StudentRepository;
+import com.comrade.model.associations.onetoone.bidirectional.BioData;
+import com.comrade.model.associations.onetoone.bidirectional.Student;
+import com.comrade.repository.associations.onetoone.bidirectional.StudentRepository;
 
 @Service
 public class StudentServiceImpl implements StudentService {

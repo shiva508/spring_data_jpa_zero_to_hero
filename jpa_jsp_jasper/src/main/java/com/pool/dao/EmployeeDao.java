@@ -1,9 +1,9 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 
-import com.pool.model.entityinheritance.ContractEmployee;
-import com.pool.model.entityinheritance.FullTimeEmployee;
-import com.pool.model.entityinheritance.PartTimeEmployee;
+import com.comrade.model.entityinheritance.ContractEmployee;
+import com.comrade.model.entityinheritance.FullTimeEmployee;
+import com.comrade.model.entityinheritance.PartTimeEmployee;
 
 public interface EmployeeDao {
 public void savePart(PartTimeEmployee employee);

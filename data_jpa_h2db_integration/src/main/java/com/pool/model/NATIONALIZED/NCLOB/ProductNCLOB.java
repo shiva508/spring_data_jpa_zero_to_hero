@@ -1,4 +1,4 @@
-package com.pool.model.NATIONALIZED.NCLOB;
+package com.comrade.model.NATIONALIZED.NCLOB;
 
 import java.sql.NClob;
 

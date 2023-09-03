@@ -1,4 +1,4 @@
-package com.pool.util;
+package com.comrade.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 
-import com.pool.model.ValidationResponse;
+import com.comrade.model.ValidationResponse;
 
 @Component
 public class InputValidatorUtil {

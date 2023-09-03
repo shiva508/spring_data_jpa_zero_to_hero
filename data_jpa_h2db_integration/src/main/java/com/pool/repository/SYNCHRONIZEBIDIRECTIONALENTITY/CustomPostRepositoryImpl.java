@@ -1,4 +1,4 @@
-package com.pool.repository.SYNCHRONIZEBIDIRECTIONALENTITY;
+package com.comrade.repository.SYNCHRONIZEBIDIRECTIONALENTITY;
 
 import java.util.List;
 

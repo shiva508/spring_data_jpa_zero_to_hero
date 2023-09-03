@@ -1,4 +1,4 @@
-package com.pool;
+package com.comrade;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -9,16 +9,16 @@ import java.util.Optional;
 import javax.persistence.EntityManager;
 import javax.transaction.Transactional;
 
-import com.pool.dao.*;
-import com.pool.dao.DefiningRepositoryInterfaces.FinetuningRepositoryDefinition.CustomUserMyBaseRepository;
-import com.pool.dao.manytomany.StudentRepository;
-import com.pool.model.entityinheritance.*;
-import com.pool.model.onetoone.Instrucror;
-import com.pool.model.onetoone.InstrucrorDetails;
-import com.pool.service.EmployeeService;
-import com.pool.service.JoinedTableInheritanceService;
-import com.pool.service.PostService;
-import com.pool.service.TagService;
+import com.comrade.dao.*;
+import com.comrade.dao.DefiningRepositoryInterfaces.FinetuningRepositoryDefinition.CustomUserMyBaseRepository;
+import com.comrade.dao.manytomany.StudentRepository;
+import com.comrade.model.entityinheritance.*;
+import com.comrade.model.onetoone.Instrucror;
+import com.comrade.model.onetoone.InstrucrorDetails;
+import com.comrade.service.EmployeeService;
+import com.comrade.service.JoinedTableInheritanceService;
+import com.comrade.service.PostService;
+import com.comrade.service.TagService;
 import org.hibernate.Session;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

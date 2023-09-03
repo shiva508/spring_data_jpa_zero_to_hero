@@ -1,4 +1,4 @@
-package com.pool.exception;
+package com.comrade.exception;
 
 public class StutentNotFoundException extends RuntimeException{
 

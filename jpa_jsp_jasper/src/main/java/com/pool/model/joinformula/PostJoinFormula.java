@@ -1,4 +1,4 @@
-package com.pool.model.joinformula;
+package com.comrade.model.joinformula;
 
 public class PostJoinFormula {
 

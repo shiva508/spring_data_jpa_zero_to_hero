@@ -1,4 +1,4 @@
-package com.pool.repository.associations.onetoone.unidirectional;
+package com.comrade.repository.associations.onetoone.unidirectional;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

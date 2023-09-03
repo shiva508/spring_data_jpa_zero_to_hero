@@ -1,4 +1,4 @@
-package com.pool.controller.associations.onetomany.bidirectional;
+package com.comrade.controller.associations.onetomany.bidirectional;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.pool.model.associations.onetomany.bidirectional.Schedule;
-import com.pool.service.associations.onetomany.bidirectional.ScheduleService;
+import com.comrade.model.associations.onetomany.bidirectional.Schedule;
+import com.comrade.service.associations.onetomany.bidirectional.ScheduleService;
 
 @RestController
 @RequestMapping("/onetomany")

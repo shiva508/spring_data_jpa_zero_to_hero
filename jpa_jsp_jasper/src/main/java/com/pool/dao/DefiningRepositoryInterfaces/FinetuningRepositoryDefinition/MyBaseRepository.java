@@ -1,4 +1,4 @@
-package com.pool.dao.DefiningRepositoryInterfaces.FinetuningRepositoryDefinition;
+package com.comrade.dao.DefiningRepositoryInterfaces.FinetuningRepositoryDefinition;
 
 import java.io.Serializable;
 import java.util.Optional;

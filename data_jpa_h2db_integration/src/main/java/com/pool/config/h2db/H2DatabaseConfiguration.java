@@ -1,4 +1,4 @@
-package com.pool.config.h2db;
+package com.comrade.config.h2db;
 
 import org.apache.catalina.servlets.WebdavServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;

@@ -1,4 +1,4 @@
-package com.pool.repository.GENERATED;
+package com.comrade.repository.GENERATED;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

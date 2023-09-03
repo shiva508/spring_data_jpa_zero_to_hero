@@ -1,7 +1,7 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 
-import com.pool.model.entityinheritance.Tag;
+import com.comrade.model.entityinheritance.Tag;
 
 public interface TagDao {
 public void saveTag(Tag tag);

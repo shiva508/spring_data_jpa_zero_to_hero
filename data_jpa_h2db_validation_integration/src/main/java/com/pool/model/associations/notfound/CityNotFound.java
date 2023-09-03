@@ -1,4 +1,4 @@
-package com.pool.model.associations.notfound;
+package com.comrade.model.associations.notfound;
 
 import java.io.Serializable;
 

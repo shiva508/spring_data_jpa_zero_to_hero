@@ -1,4 +1,4 @@
-package com.pool.repository;
+package com.comrade.repository;
 
 import java.util.Optional;
 

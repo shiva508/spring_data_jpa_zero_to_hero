@@ -1,8 +1,8 @@
-package com.pool.service.associations.onetomany.unidirectional;
+package com.comrade.service.associations.onetomany.unidirectional;
 
 import java.util.List;
 
-import com.pool.model.associations.onetomany.unidirectional.Role;
+import com.comrade.model.associations.onetomany.unidirectional.Role;
 
 public interface RoleService {
 	public Role saveRole(Role role);

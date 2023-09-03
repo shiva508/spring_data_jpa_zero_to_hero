@@ -1,5 +1,5 @@
 
-package com.pool.config.h2db;
+package com.comrade.config.h2db;
 
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;

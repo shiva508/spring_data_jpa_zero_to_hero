@@ -1,4 +1,4 @@
-package com.pool.model.GeneratedProperties.GENERATED;
+package com.comrade.model.GeneratedProperties.GENERATED;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

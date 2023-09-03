@@ -1,4 +1,4 @@
-package com.pool.modelElementCollectionEmbeddable;
+package com.comrade.modelElementCollectionEmbeddable;
 
 import java.util.List;
 

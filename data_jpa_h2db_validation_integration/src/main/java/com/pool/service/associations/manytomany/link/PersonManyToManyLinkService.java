@@ -1,8 +1,8 @@
-package com.pool.service.associations.manytomany.link;
+package com.comrade.service.associations.manytomany.link;
 
 import java.util.List;
 
-import com.pool.model.associations.manytomany.link.PersonManyToManyLink;
+import com.comrade.model.associations.manytomany.link.PersonManyToManyLink;
 
 public interface PersonManyToManyLinkService {
     public PersonManyToManyLink save(PersonManyToManyLink personManyToManyLink);

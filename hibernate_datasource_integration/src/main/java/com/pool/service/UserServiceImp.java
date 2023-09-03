@@ -1,9 +1,9 @@
-package com.pool.service;
+package com.comrade.service;
 
 import java.util.List;
 
-import com.pool.dao.UserDao;
-import com.pool.entity.User;
+import com.comrade.dao.UserDao;
+import com.comrade.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

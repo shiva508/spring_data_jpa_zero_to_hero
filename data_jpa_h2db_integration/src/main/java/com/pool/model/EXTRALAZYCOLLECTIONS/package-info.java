@@ -5,4 +5,4 @@
  * @author shiva
  *
  */
-package com.pool.model.EXTRALAZYCOLLECTIONS;
+package com.comrade.model.EXTRALAZYCOLLECTIONS;

@@ -1,4 +1,4 @@
-package com.pool.service.ENUM.ATTRIBUTECONVERTER;
+package com.comrade.service.ENUM.ATTRIBUTECONVERTER;
 
 import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

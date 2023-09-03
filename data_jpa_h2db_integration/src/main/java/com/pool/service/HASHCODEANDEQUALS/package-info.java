@@ -5,4 +5,4 @@
  * @author shiva
  *
  */
-package com.pool.service.HASHCODEANDEQUALS;
+package com.comrade.service.HASHCODEANDEQUALS;

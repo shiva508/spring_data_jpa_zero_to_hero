@@ -1,4 +1,4 @@
-package com.pool.dao;
+package com.comrade.dao;
 
 
 public interface NotificationSender<T> {

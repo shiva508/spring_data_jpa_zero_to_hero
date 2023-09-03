@@ -5,4 +5,4 @@
  * @author shiva
  *
  */
-package com.pool.model.SYNCHRONIZEBIDIRECTIONALENTITY.OneToMany;
+package com.comrade.model.SYNCHRONIZEBIDIRECTIONALENTITY.OneToMany;

@@ -1,4 +1,4 @@
-package com.pool.model.ENUM.ATTRIBUTECONVERTER;
+package com.comrade.model.ENUM.ATTRIBUTECONVERTER;
 
 public class Caption {
 	private String text;

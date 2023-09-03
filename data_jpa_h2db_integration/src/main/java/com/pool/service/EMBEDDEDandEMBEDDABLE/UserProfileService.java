@@ -1,4 +1,4 @@
-package com.pool.service.EMBEDDEDandEMBEDDABLE;
+package com.comrade.service.EMBEDDEDandEMBEDDABLE;
 
 import com.example.demo.model.EMBEDDEDandEMBEDDABLE.UserProfile;
 
