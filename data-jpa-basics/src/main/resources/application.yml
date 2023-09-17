@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: data-jpa-basics
+  datasource:
+    url: jdbc:postgresql://localhost:5432/dear_comrade
+    username: dear
+    password: comrade
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  sql:
+    init:
+      mode: ALWAYS
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html

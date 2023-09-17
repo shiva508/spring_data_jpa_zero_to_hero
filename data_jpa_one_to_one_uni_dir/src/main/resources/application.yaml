@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: data_jpa_one_to_one_uni_dir
+  datasource:
+    username: dear
+    password: comrade
+    url: jdbc:postgresql://localhost:5432/dear_comrade
+    driver-class-name: org.postgresql.Driver
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
