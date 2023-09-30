@@ -12,6 +12,9 @@ public class Topic implements Serializable {
     private Long id;
     private String name;
 
+    public Topic() {
+    }
+
     public Topic(Long id, String name) {
         this.id = id;
         this.name = name;

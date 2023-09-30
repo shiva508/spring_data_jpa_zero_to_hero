@@ -19,7 +19,7 @@ import java.util.Map;
 @Configuration
 @EnableTransactionManagement
 @EnableJpaRepositories(
-        basePackages = "com.comrade.entity.postgres",
+        basePackages = "com.comrade.repository.postgres",
         entityManagerFactoryRef = "topicTypeEntityManagerFactory",
         transactionManagerRef = "topicTypePlatformTransactionManager"
 )

@@ -13,6 +13,9 @@ public class TopicType implements Serializable {
     private Long id;
     private String name;
 
+    public TopicType() {
+    }
+
     public TopicType(Long id, String name) {
         this.id = id;
         this.name = name;
