@@ -1,0 +1,23 @@
+server:
+  port: 8040
+spring:
+  application:
+    name: data_jpa_multiple_database
+  datasource:
+    password: comrade
+    username: dear
+    url: jdbc:postgresql://localhost:5432/dear_comrade
+  topic-type:
+    datasource:
+      password: sa
+      username: sa
+      url: jdbc:h2:mem:topictype
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    
+
+#  sql:
+#    init:
+#      mode: ALWAYS

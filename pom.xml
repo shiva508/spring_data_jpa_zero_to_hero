@@ -18,7 +18,8 @@
 		<module>data_jpa_basic</module>
         <module>data_jpa_one_to_one_uni_dir</module>
 		<module>data-jpa-basics</module>
-	</modules>
+        <module>data_jpa_multiple_database</module>
+    </modules>
 
 	<properties>
 		<java.version>17</java.version>
