@@ -1,0 +1,13 @@
+version: '3'
+services:
+  oracle:
+    image: oracle/database:12.2.0.1-ee
+    volumes:
+      - oracle-data:/opt/oracle/oradata
+    environment:
+      ORACLE_PWD: mypassword
+      ORACLE_SID: mydb
+      ORACLE_PDB: mypdb
+      ORACLE_CHARACTERSET: AL32UTF8
+volumes:
+  oracle-data:
