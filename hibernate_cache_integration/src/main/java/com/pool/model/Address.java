@@ -1,4 +1,4 @@
-package com.shiva.model;
+package com.pool.model;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

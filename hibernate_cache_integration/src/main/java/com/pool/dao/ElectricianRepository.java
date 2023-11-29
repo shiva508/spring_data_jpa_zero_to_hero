@@ -1,8 +1,8 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 
-import com.shiva.model.Electrician;
+import com.pool.model.Electrician;
 public interface ElectricianRepository {
 	public Electrician createElectrician(Electrician electrician);
 	public Electrician updateElectrician(Electrician electrician);

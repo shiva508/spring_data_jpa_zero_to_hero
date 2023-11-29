@@ -1,8 +1,8 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.List;
 
-import com.shiva.model.AddressType;
+import com.pool.model.AddressType;
 
 public interface AddressTypeService {
 	public AddressType createAddressType(AddressType addressType);

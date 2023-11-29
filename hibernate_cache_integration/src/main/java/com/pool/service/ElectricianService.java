@@ -1,9 +1,9 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.List;
 
-import com.shiva.form.ElectricianForm;
-import com.shiva.model.Electrician;
+import com.pool.form.ElectricianForm;
+import com.pool.model.Electrician;
 
 public interface ElectricianService {
 	public Electrician createElectrician(ElectricianForm electrician);

@@ -1,8 +1,8 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.List;
 
-import com.shiva.model.Student;
+import com.pool.model.Student;
 
 public interface StudentService {
 	public Student saveStudent(Student student);

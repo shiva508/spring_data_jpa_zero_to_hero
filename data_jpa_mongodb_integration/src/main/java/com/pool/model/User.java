@@ -1,4 +1,4 @@
-package com.comrade.model;
+package com.pool.model;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import com.shiva.model.Student;
+import com.pool.model.Student;
 
 @Repository
 public class StudentRepositoryImpl implements StudentRepository {

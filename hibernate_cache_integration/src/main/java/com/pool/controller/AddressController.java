@@ -1,4 +1,4 @@
-package com.shiva.controller;
+package com.pool.controller;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shiva.model.Address;
-import com.shiva.service.AddressService;
+import com.pool.model.Address;
+import com.pool.service.AddressService;
 
 @RestController
 public class AddressController {

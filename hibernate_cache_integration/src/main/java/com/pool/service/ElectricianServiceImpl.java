@@ -1,4 +1,4 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -7,13 +7,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import com.shiva.dao.ElectricianRepository;
-import com.shiva.form.AddressForm;
-import com.shiva.form.AddressTypeForm;
-import com.shiva.form.ElectricianForm;
-import com.shiva.model.Address;
-import com.shiva.model.AddressType;
-import com.shiva.model.Electrician;
+import com.pool.dao.ElectricianRepository;
+import com.pool.form.AddressForm;
+import com.pool.form.AddressTypeForm;
+import com.pool.form.ElectricianForm;
+import com.pool.model.Address;
+import com.pool.model.AddressType;
+import com.pool.model.Electrician;
 import ma.glasnost.orika.MapperFacade;
 
 @Service

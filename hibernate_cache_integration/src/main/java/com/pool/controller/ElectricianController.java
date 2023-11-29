@@ -1,4 +1,4 @@
-package com.shiva.controller;
+package com.pool.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shiva.form.ElectricianForm;
-import com.shiva.model.Electrician;
-import com.shiva.service.ElectricianService;
+import com.pool.form.ElectricianForm;
+import com.pool.model.Electrician;
+import com.pool.service.ElectricianService;
 
 @RestController
 public class ElectricianController {

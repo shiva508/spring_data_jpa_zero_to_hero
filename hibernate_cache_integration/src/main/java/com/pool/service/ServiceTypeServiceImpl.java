@@ -1,4 +1,4 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.shiva.dao.ServiceTypeRepository;
-import com.shiva.model.ServiceType;
+import com.pool.dao.ServiceTypeRepository;
+import com.pool.model.ServiceType;
 
 @Service
 public class ServiceTypeServiceImpl implements ServiceTypeService {

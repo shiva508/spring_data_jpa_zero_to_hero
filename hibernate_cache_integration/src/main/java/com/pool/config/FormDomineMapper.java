@@ -1,13 +1,13 @@
-package com.shiva.config;
+package com.pool.config;
 
-import com.shiva.form.AddressForm;
-import com.shiva.form.AddressTypeForm;
-import com.shiva.form.ElectricianForm;
-import com.shiva.form.ServiceTypeForm;
-import com.shiva.model.Address;
-import com.shiva.model.AddressType;
-import com.shiva.model.Electrician;
-import com.shiva.model.ServiceType;
+import com.pool.form.AddressForm;
+import com.pool.form.AddressTypeForm;
+import com.pool.form.ElectricianForm;
+import com.pool.form.ServiceTypeForm;
+import com.pool.model.Address;
+import com.pool.model.AddressType;
+import com.pool.model.Electrician;
+import com.pool.model.ServiceType;
 import ma.glasnost.orika.MapperFactory;
 import ma.glasnost.orika.converter.ConverterFactory;
 

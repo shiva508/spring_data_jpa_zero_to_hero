@@ -1,4 +1,4 @@
-package com.shiva.exception;
+package com.pool.exception;
 
 import java.util.Date;
 

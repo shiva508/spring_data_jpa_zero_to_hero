@@ -1,4 +1,4 @@
-package com.shiva.intercepter;
+package com.pool.intercepter;
 
 import java.util.Date;
 
@@ -9,8 +9,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.shiva.exception.CustomException;
-import com.shiva.exception.ServiceTypeNotFound;
+import com.pool.exception.CustomException;
+import com.pool.exception.ServiceTypeNotFound;
 
 @ControllerAdvice
 public class ExceptionHandlerControllerAdvice {

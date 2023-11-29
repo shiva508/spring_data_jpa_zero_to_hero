@@ -1,4 +1,4 @@
-package com.shiva.exception;
+package com.pool.exception;
 
 public class ServiceTypeNotFound extends RuntimeException {
 

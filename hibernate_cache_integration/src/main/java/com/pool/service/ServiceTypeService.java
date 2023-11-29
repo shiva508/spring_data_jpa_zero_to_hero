@@ -1,8 +1,8 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.List;
 
-import com.shiva.model.ServiceType;
+import com.pool.model.ServiceType;
 
 public interface ServiceTypeService {
 	public ServiceType saveService(ServiceType serviceType);

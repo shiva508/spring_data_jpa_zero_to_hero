@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.shiva.dao.StudentRepository;
-import com.shiva.model.Student;
+import com.pool.dao.StudentRepository;
+import com.pool.model.Student;
 
 @Service
 public class StudentServiceImpl implements StudentService {

@@ -15,7 +15,6 @@
     <name>spring_data_jpa_zero_to_hero</name>
 	<description>Demo project for Spring Boot</description>
 	<modules>
-		<module>data_jpa_basic</module>
         <module>data_jpa_one_to_one_uni_dir</module>
 		<module>data-jpa-basics</module>
         <module>data_jpa_multiple_database</module>
@@ -35,7 +34,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>

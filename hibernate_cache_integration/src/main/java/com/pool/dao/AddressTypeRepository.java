@@ -1,8 +1,8 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 
-import com.shiva.model.AddressType;
+import com.pool.model.AddressType;
 
 public interface AddressTypeRepository {
 	public AddressType createAddressType(AddressType addressType);

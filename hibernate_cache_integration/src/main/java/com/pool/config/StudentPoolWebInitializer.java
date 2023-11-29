@@ -1,4 +1,4 @@
-package com.shiva.config;
+package com.pool.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

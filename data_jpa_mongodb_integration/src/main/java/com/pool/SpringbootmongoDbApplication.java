@@ -1,4 +1,4 @@
-package com.comrade;
+package com.pool;
 
 import java.util.Arrays;
 
@@ -6,9 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import com.mongo.springbootmongoDB.model.User;
-import com.mongo.springbootmongoDB.repository.UserRepository;
+import com.pool.model.User;
+import com.pool.repository.UserRepository;
 
 @SpringBootApplication
 public class SpringbootmongoDbApplication implements CommandLineRunner {

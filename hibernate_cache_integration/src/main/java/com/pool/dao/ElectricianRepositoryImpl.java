@@ -1,4 +1,4 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.shiva.model.Electrician;
+import com.pool.model.Electrician;
 
 @Repository
 public class ElectricianRepositoryImpl implements ElectricianRepository {

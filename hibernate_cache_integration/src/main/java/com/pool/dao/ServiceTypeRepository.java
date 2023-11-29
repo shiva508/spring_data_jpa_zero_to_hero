@@ -1,8 +1,8 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 
-import com.shiva.model.ServiceType;
+import com.pool.model.ServiceType;
 
 public interface ServiceTypeRepository {
 	public ServiceType saveService(ServiceType serviceType);

@@ -1,8 +1,8 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 
-import com.shiva.model.Address;
+import com.pool.model.Address;
 
 public interface AddressRepository {
 	public Address createAddress(Address address);

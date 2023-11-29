@@ -1,4 +1,4 @@
-package com.shiva.dao;
+package com.pool.dao;
 
 import java.util.List;
 import org.hibernate.Criteria;
@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Repository;
 
-import com.shiva.model.ServiceType;
+import com.pool.model.ServiceType;
 
 @Repository
 public class ServiceTypeRepositoryImpl implements ServiceTypeRepository {

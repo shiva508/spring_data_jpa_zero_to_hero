@@ -1,4 +1,4 @@
-package com.shiva.controller;
+package com.pool.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shiva.model.ServiceType;
-import com.shiva.service.ServiceTypeService;
+import com.pool.model.ServiceType;
+import com.pool.service.ServiceTypeService;
 @RestController
 public class ServiceTypeController {
 	@Autowired

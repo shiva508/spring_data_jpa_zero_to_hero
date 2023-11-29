@@ -1,8 +1,8 @@
-package com.shiva.service;
+package com.pool.service;
 
 import java.util.List;
 
-import com.shiva.model.Address;
+import com.pool.model.Address;
 
 public interface AddressService {
 	public Address createAddress(Address address);
