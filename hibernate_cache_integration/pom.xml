@@ -19,11 +19,6 @@
     </properties>
     <dependencies>
         <dependency>
-            <groupId>ma.glasnost.orika</groupId>
-            <artifactId>orika-core</artifactId>
-            <version>${orika-version}</version>
-        </dependency>
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>3.8.1</version>
@@ -78,8 +73,6 @@
             <artifactId>hibernate-core</artifactId>
             <version>${hibernate.version}</version>
         </dependency>
-
-
         <!-- jsr303 validation -->
         <dependency>
             <groupId>javax.validation</groupId>
@@ -126,8 +119,6 @@
             <artifactId>spring-security-config</artifactId>
             <version>${spring-security.version}</version>
         </dependency>
-        <!-- <dependency> <groupId>com.h2database</groupId> <artifactId>h2</artifactId>
-            <version>1.4.187</version> </dependency> -->
 
         <dependency>
             <groupId>org.springframework.security</groupId>
