@@ -1,13 +1,13 @@
-version: '3'
+version: "3.9"
 services:
-  oracle:
-    image: oracle/database:12.2.0.1-ee
-    volumes:
-      - oracle-data:/opt/oracle/oradata
+  oracle-std-service:
+    shm_size: '8gb'
+    container_name: oracle-std-service-container
+    ports:
+      - '9445:1521'
+    image: container-registry.oracle.com/database/standard
     environment:
-      ORACLE_PWD: mypassword
-      ORACLE_SID: mydb
-      ORACLE_PDB: mypdb
-      ORACLE_CHARACTERSET: AL32UTF8
-volumes:
-  oracle-data:
+      DB_SID: OraDoc
+      DB_PASSWD: MyPasswd123
+      DB_DOMAIN: my.domain.com
+      DB_BUNDLE: basic
