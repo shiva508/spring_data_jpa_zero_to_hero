@@ -20,13 +20,12 @@ public class DataJpaBasicsApplication {
     public ApplicationRunner applicationRunner(ContactService contactService, AccountService accountService){
         return args -> {
             ContactEntity contact= ContactEntity.builder()
-                    //.name(Name.builder().firstName("Shiva").lastName("Dasari").build())
-                    .notes("What is new")
-                    .starred(true)
-                    .website("www.dearcomrade.com")
-                    .build();
+                                                .notes("What is new")
+                                                .starred(true)
+                                                .website("www.dearcomrade.com")
+                                                .build();
             contactService.save(contact);
-            AccountEntity accountEntity=AccountEntity.builder().credit(25.00).rate(0.25).build();
+            AccountEntity accountEntity=AccountEntity.builder().interest(0f).credit(25.0f).rate(2f).build();
             accountService.save(accountEntity);
         };
     }

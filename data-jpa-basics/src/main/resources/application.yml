@@ -1,3 +1,5 @@
+server:
+  shutdown: GRACEFUL
 spring:
   application:
     name: data-jpa-basics

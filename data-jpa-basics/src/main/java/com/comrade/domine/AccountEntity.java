@@ -6,7 +6,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.annotations.Formula;
-
 import java.io.Serializable;
 
 @Data
@@ -23,12 +22,12 @@ public class AccountEntity implements Serializable {
     private Long id;
 
     @Column(name = "credit")
-    private Double credit;
+    private Float credit;
 
     @Column(name = "rate")
-    private Double rate;
+    private Float rate;
 
-    @Formula( value = "credit * rate")
-    @Column(name = "interest")
-    private Double interest;
+    @Formula("credit * 2")
+    @Column(name = "interest",insertable = true, updatable = true)
+    private Float interest;
 }
