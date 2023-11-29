@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
 
-<groupId>com.pool</groupId>
+<groupId>com.comrade</groupId>
 <artifactId>jpa_jsp_jasper</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 <packaging>jar</packaging>
@@ -12,20 +12,20 @@
 <name>jpa_jsp_jasper</name>
 <description>Demo project for Spring Boot web using jsp</description>
 
-<parent>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.1.0.RELEASE</version>
-    <relativePath /> <!-- lookup parent from repository -->
-</parent>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.2.0</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
 
 <properties>
-    <start-class>com.web.ldap.SpringbootWebJpaJspApplication</start-class>
+    <start-class>com.comrade.SpringbootWebJpaJspApplication</start-class>
     <!-- <maven.compiler.source>1.8</maven.compiler.source> <maven.compiler.target>1.8</maven.compiler.target> -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <java.version>1.8</java.version>
-    <querydsl.version>4.1.4</querydsl.version>
+    <java.version>17</java.version>
+<!--    <querydsl.version>4.1.4</querydsl.version>-->
 </properties>
 
 <dependencies>
@@ -68,8 +68,8 @@
         <scope>runtime</scope>
     </dependency>
     <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
+        <groupId>com.mysql</groupId>
+        <artifactId>mysql-connector-j</artifactId>
         <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -86,7 +86,9 @@
     <dependency>
         <groupId>javax.servlet</groupId>
         <artifactId>jstl</artifactId>
+        <version>1.2</version>
     </dependency>
+
     <!-- to deplloy externl server comment bellow two -->
     <dependency>
         <groupId>org.apache.tomcat.embed</groupId>
@@ -99,7 +101,6 @@
         <version>4.6.1</version>
         <scope>provided</scope>
     </dependency>
-
 
     <dependency>
         <groupId>org.springframework.boot</groupId>
@@ -128,9 +129,11 @@
         <artifactId>spring-boot-starter-cache</artifactId>
     </dependency>
     <dependency>
-        <groupId>net.sf.ehcache</groupId>
+        <groupId>org.ehcache</groupId>
         <artifactId>ehcache</artifactId>
+        <version>3.10.8</version>
     </dependency>
+
     <dependency>
         <groupId>org.hibernate</groupId>
         <artifactId>hibernate-core</artifactId>
@@ -151,14 +154,6 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-actuator</artifactId>
     </dependency>
-    <!-- <dependency> <groupId>com.querydsl</groupId> <artifactId>querydsl-apt</artifactId>
-        <version>4.1.3</version> <scope>provided</scope> </dependency> <dependency>
-        <groupId>com.querydsl</groupId> <artifactId>querydsl-jpa</artifactId> <version>4.1.3</version>
-        </dependency> -->
-
-    <!-- <dependency> <groupId>com.querydsl</groupId> <artifactId>querydsl-jpa</artifactId>
-        <version>${querydsl.version}</version> </dependency> <dependency> <groupId>org.slf4j</groupId>
-        <artifactId>slf4j-log4j12</artifactId> <version>1.6.1</version> </dependency> -->
 </dependencies>
 
 <build>

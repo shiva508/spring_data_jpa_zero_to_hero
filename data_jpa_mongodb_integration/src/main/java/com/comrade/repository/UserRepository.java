@@ -1,8 +1,8 @@
-package com.pool.repository;
+package com.comrade.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-import com.pool.model.User;
+import com.comrade.model.User;
 
 public interface UserRepository extends MongoRepository<User, Integer> {
 

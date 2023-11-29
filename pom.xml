@@ -8,7 +8,7 @@
 		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pool</groupId>
+	<groupId>com.comrade</groupId>
 	<artifactId>spring_data_jpa_zero_to_hero</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
