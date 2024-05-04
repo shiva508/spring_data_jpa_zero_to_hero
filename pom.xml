@@ -20,6 +20,7 @@
         <module>data_jpa_multiple_database</module>
         <module>liquibase-integration</module>
         <module>data-jpa-performance</module>
+<!--        <module>migration-flyway</module>-->
     </modules>
 
 	<properties>
